@@ -1,0 +1,377 @@
+{
+  "version": "0.0.1",
+  "catchAll": {
+    "next": [
+      {
+        "condition": "event.nlu.intent.name === 'goodbye'",
+        "node": "goodbye"
+      }
+    ],
+    "onReceive": []
+  },
+  "startNode": "entry",
+  "nodes": [
+    {
+      "id": "be96d4e467",
+      "name": "mirror_answer",
+      "next": [
+        {
+          "condition": "true",
+          "node": "entry"
+        }
+      ],
+      "onEnter": [
+        "say #!builtin_text-w-OaOr",
+        "say #!builtin_text-GB6K3A",
+        "say #!builtin_text-boxupo",
+        "builtin/setVariable {\"type\":\"temp\",\"name\":\"mirror_repeat_text\",\"value\":\"Like I said before,\"}"
+      ],
+      "onReceive": null
+    },
+    {
+      "id": "1ea755be2c",
+      "name": "topcoat_answer",
+      "next": [
+        {
+          "condition": "true",
+          "node": "entry"
+        }
+      ],
+      "onEnter": [
+        "say #!builtin_text-ROcYR0",
+        "say #!builtin_text-EzvrEs",
+        "say #!builtin_text-fELfiD",
+        "builtin/setVariable {\"type\":\"temp\",\"name\":\"topcoat_repeat_text\",\"value\":\"Like I said before,\"}"
+      ],
+      "onReceive": null
+    },
+    {
+      "id": "163263bd36",
+      "name": "water_answer",
+      "next": [
+        {
+          "condition": "true",
+          "node": "entry"
+        }
+      ],
+      "onEnter": [
+        "say #!builtin_text-qCqcTM",
+        "say #!builtin_text-paS3Mp",
+        "say #!builtin_text-voN2xA",
+        "builtin/setVariable {\"type\":\"temp\",\"name\":\"water_repeat_text\",\"value\":\"Like I said before, \"}"
+      ],
+      "onReceive": null
+    },
+    {
+      "id": "0d0664d941",
+      "name": "flashlight_answer",
+      "next": [
+        {
+          "condition": "true",
+          "node": "entry"
+        }
+      ],
+      "onEnter": [
+        "say #!builtin_text-ZJO5yi",
+        "say #!builtin_text-G3VIY5",
+        "builtin/setVariable {\"type\":\"temp\",\"name\":\"flashlight_repeat_text\",\"value\":\"Like I said before,\"}"
+      ],
+      "onReceive": null
+    },
+    {
+      "id": "3ac4c5249a",
+      "name": "parachute_answer",
+      "next": [
+        {
+          "condition": "true",
+          "node": "entry"
+        }
+      ],
+      "onEnter": [
+        "say #!builtin_text-0Ht8ex",
+        "say #!builtin_text-5khnNd",
+        "builtin/setVariable {\"type\":\"temp\",\"name\":\"parachute_repeat_text\",\"value\":\"Like I said before,\"}"
+      ],
+      "onReceive": null
+    },
+    {
+      "id": "51fa0a68ab",
+      "name": "jackknife_answer",
+      "next": [
+        {
+          "condition": "true",
+          "node": "entry"
+        }
+      ],
+      "onEnter": [
+        "say #!builtin_text-8zalPR",
+        "builtin/setVariable {\"type\":\"temp\",\"name\":\"knife_repeat_text\",\"value\":\"Like I said before,\"}"
+      ],
+      "onReceive": null
+    },
+    {
+      "id": "ffe466d3e8",
+      "name": "raincoat_answer",
+      "next": [
+        {
+          "condition": "true",
+          "node": "entry"
+        }
+      ],
+      "onEnter": [
+        "say #!builtin_text-3sWpRG",
+        "say #!builtin_text-WJ6Pqs",
+        "say #!builtin_text-I9X_A4",
+        "builtin/setVariable {\"type\":\"temp\",\"name\":\"raincoat_repeat_text\",\"value\":\"Like I said before,\"}"
+      ],
+      "onReceive": null
+    },
+    {
+      "id": "e9f08ae7ba",
+      "name": "goodbye",
+      "next": [
+        {
+          "condition": "true",
+          "node": "END"
+        }
+      ],
+      "onEnter": [
+        "say #!builtin_text-6iGv_g"
+      ],
+      "onReceive": null
+    },
+    {
+      "id": "6d80d74ce6",
+      "name": "error_message",
+      "next": [
+        {
+          "condition": "true",
+          "node": "entry"
+        }
+      ],
+      "onEnter": [
+        "say #!builtin_text-IEoPRQ"
+      ],
+      "onReceive": null
+    },
+    {
+      "id": "70ff4877eb",
+      "name": "entry",
+      "onEnter": [],
+      "onReceive": [],
+      "next": [
+        {
+          "condition": "event.nlu.intent.name === 'comparison'",
+          "node": "comparison_message"
+        },
+        {
+          "condition": "event.nlu.intent.name === 'cosmetic_mirror'",
+          "node": "mirror_answer"
+        },
+        {
+          "condition": "event.nlu.intent.name === 'top_coat'",
+          "node": "topcoat_answer"
+        },
+        {
+          "condition": "event.nlu.intent.name === 'water'",
+          "node": "water_answer"
+        },
+        {
+          "condition": "event.nlu.intent.name === 'flashlight'",
+          "node": "flashlight_answer"
+        },
+        {
+          "condition": "event.nlu.intent.name === 'parachute'",
+          "node": "parachute_answer"
+        },
+        {
+          "condition": "event.nlu.intent.name === 'jack_knife'",
+          "node": "jackknife_answer"
+        },
+        {
+          "condition": "event.nlu.intent.name === 'rain_coat'",
+          "node": "raincoat_answer"
+        },
+        {
+          "condition": "event.nlu.intent.name === 'pistol'",
+          "node": "pistol_answer"
+        },
+        {
+          "condition": "event.nlu.intent.name === 'sunglasses'",
+          "node": "sunglasses_answer"
+        },
+        {
+          "condition": "event.nlu.intent.name === 'gauze'",
+          "node": "gauze_answer"
+        },
+        {
+          "condition": "event.nlu.intent.name === 'compass'",
+          "node": "compass_answer"
+        },
+        {
+          "condition": "event.nlu.intent.name === 'map'",
+          "node": "map_answer"
+        },
+        {
+          "condition": "event.nlu.intent.name === 'book'",
+          "node": "book_answer"
+        },
+        {
+          "condition": "event.nlu.intent.name === 'vodka'",
+          "node": "vodka_answer"
+        },
+        {
+          "condition": "event.nlu.intent.name === 'salt'",
+          "node": "salt_answer"
+        },
+        {
+          "condition": "true",
+          "node": "error_message"
+        }
+      ]
+    },
+    {
+      "id": "26c281e2cb",
+      "name": "pistol_answer",
+      "next": [
+        {
+          "condition": "true",
+          "node": "entry"
+        }
+      ],
+      "onEnter": [
+        "say #!builtin_text-pH_DpP",
+        "say #!builtin_text-EcUopF",
+        "say #!builtin_text-jqyhw6",
+        "builtin/setVariable {\"type\":\"temp\",\"name\":\"pistol_repeat_text\",\"value\":\"Like I said before,\"}"
+      ],
+      "onReceive": null
+    },
+    {
+      "id": "b8588c190d",
+      "name": "sunglasses_answer",
+      "next": [
+        {
+          "condition": "true",
+          "node": "entry"
+        }
+      ],
+      "onEnter": [
+        "say #!builtin_text-F6VUqJ",
+        "say #!builtin_text--x0psn",
+        "builtin/setVariable {\"type\":\"temp\",\"name\":\"sunglasses_repeat_text\",\"value\":\"Like I said before,\"}"
+      ],
+      "onReceive": null
+    },
+    {
+      "id": "b3a5a894b5",
+      "name": "gauze_answer",
+      "next": [
+        {
+          "condition": "true",
+          "node": "entry"
+        }
+      ],
+      "onEnter": [
+        "say #!builtin_text-pFanNi",
+        "say #!builtin_text-hTeyPi",
+        "builtin/setVariable {\"type\":\"temp\",\"name\":\"gauze_repeat_text\",\"value\":\"Like I said before,\"}"
+      ],
+      "onReceive": null
+    },
+    {
+      "id": "17a99ba3ff",
+      "name": "compass_answer",
+      "next": [
+        {
+          "condition": "true",
+          "node": "entry"
+        }
+      ],
+      "onEnter": [
+        "say #!builtin_text-ATh2Nb",
+        "builtin/setVariable {\"type\":\"temp\",\"name\":\"compass_repeat_text\",\"value\":\"Like I said before,\"}"
+      ],
+      "onReceive": null
+    },
+    {
+      "id": "53ba4733a0",
+      "name": "map_answer",
+      "next": [
+        {
+          "condition": "true",
+          "node": "entry"
+        }
+      ],
+      "onEnter": [
+        "say #!builtin_text-88MySR",
+        "builtin/setVariable {\"type\":\"temp\",\"name\":\"map_repeat_text\",\"value\":\"Like I said before,\"}"
+      ],
+      "onReceive": null
+    },
+    {
+      "id": "55b301cdfc",
+      "name": "book_answer",
+      "next": [
+        {
+          "condition": "true",
+          "node": "entry"
+        }
+      ],
+      "onEnter": [
+        "say #!builtin_text-c-fCjN",
+        "say #!builtin_text-Bb8Ckw",
+        "say #!builtin_text-d5d8Ra",
+        "builtin/setVariable {\"type\":\"temp\",\"name\":\"book_repeat_text\",\"value\":\"Like I said before,\"}"
+      ],
+      "onReceive": null
+    },
+    {
+      "id": "343562e742",
+      "name": "vodka_answer",
+      "next": [
+        {
+          "condition": "true",
+          "node": "entry"
+        }
+      ],
+      "onEnter": [
+        "say #!builtin_text-yLg5pf",
+        "say #!builtin_text-l8ykyP",
+        "say #!builtin_text-9WPt_m",
+        "builtin/setVariable {\"type\":\"temp\",\"name\":\"vodka_repeat_text\",\"value\":\"Like I said before,\"}"
+      ],
+      "onReceive": null
+    },
+    {
+      "id": "53e5e04821",
+      "name": "salt_answer",
+      "next": [
+        {
+          "condition": "true",
+          "node": "entry"
+        }
+      ],
+      "onEnter": [
+        "say #!builtin_text-fXBBSp",
+        "say #!builtin_text-mERg0T",
+        "builtin/setVariable {\"type\":\"temp\",\"name\":\"salt_repeat_text\",\"value\":\"Like I said before,\"}"
+      ],
+      "onReceive": null
+    },
+    {
+      "id": "d458948598",
+      "name": "comparison_message",
+      "next": [
+        {
+          "condition": "true",
+          "node": "entry"
+        }
+      ],
+      "onEnter": [
+        "say #!builtin_text-sKYkBP"
+      ],
+      "onReceive": null
+    }
+  ]
+}

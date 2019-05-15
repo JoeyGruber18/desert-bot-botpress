@@ -1,0 +1,19 @@
+{
+  "name": "parachute",
+  "utterances": [
+    "why did you set the parachute in the list in such a way",
+    "what caused your placement of the parachute ",
+    "why chute?",
+    "why the parachute?",
+    "Why would the parachute be useful in the desert",
+    "why did you opt for the parachute?",
+    "what makes the parachute special?",
+    "what made you rank the parachute",
+    "why did you choose the parachute?",
+    "why did you pick the parachute"
+  ],
+  "slots": [],
+  "contexts": [
+    "global"
+  ]
+}

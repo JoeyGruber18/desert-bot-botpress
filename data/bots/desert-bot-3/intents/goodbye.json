@@ -1,0 +1,20 @@
+{
+  "name": "goodbye",
+  "utterances": [
+    "G2G",
+    "thats all the help I need",
+    "got to go",
+    "see you later",
+    "i am done",
+    "peace out",
+    "adios",
+    "bye bye",
+    "bye",
+    "byeb",
+    "goodbye"
+  ],
+  "slots": [],
+  "contexts": [
+    "global"
+  ]
+}

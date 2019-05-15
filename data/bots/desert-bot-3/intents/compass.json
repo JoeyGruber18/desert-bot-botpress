@@ -1,0 +1,19 @@
+{
+  "name": "compass",
+  "utterances": [
+    "why did you order the compass in such a way?",
+    "why did you select the magnetic compass",
+    "Why did you favor the compass",
+    "What factors effected your choice for the compass?",
+    "Why did you decide on the compass?",
+    "What made you position the compass in the place you did?",
+    "Why would you rank the compass there?",
+    "Why did you pick the compass?",
+    "why compass?",
+    "why the compass"
+  ],
+  "slots": [],
+  "contexts": [
+    "global"
+  ]
+}

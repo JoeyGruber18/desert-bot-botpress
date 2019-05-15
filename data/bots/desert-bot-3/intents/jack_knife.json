@@ -1,0 +1,19 @@
+{
+  "name": "jack_knife",
+  "utterances": [
+    "why did you choose the knife",
+    "why did you opt for the pocketknife",
+    "What factors effected your decision on the ranking of the nife",
+    "why did you decide upon the jack knife",
+    "why jackknife",
+    "why did you select the knife?",
+    "what lead you to picking the jackknife?",
+    "How did you determine the knife?",
+    "what would the knife be useful?",
+    "why did you pick the jackknife?"
+  ],
+  "slots": [],
+  "contexts": [
+    "global"
+  ]
+}

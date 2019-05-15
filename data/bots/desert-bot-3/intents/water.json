@@ -1,0 +1,19 @@
+{
+  "name": "water",
+  "utterances": [
+    "why could you end up picking the water to use in the desert",
+    "why did you choose the water",
+    "Why is the water not a good choice?",
+    "Why did you prefer the water in the ranking process",
+    "Why did you rank the water this way?",
+    "why did you choose the water as that rank?",
+    "why water?",
+    "why would you select the water?",
+    "what made you decide upon the water?",
+    "why did you pick the water?"
+  ],
+  "slots": [],
+  "contexts": [
+    "global"
+  ]
+}

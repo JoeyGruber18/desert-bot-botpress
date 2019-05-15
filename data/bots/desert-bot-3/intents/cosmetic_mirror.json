@@ -1,0 +1,19 @@
+{
+  "name": "cosmetic_mirror",
+  "utterances": [
+    "what caused you to place the mirror so highly?",
+    "what are the advantages and disadvantages of the mirrror",
+    "why did you rank the miror in this way",
+    "what factors effected your choice in the cosmetic mirror",
+    "why the cosmetic mirror?",
+    "why the mirror",
+    "Why did you decide upon the cosmetic mirror",
+    "What make you pick the mirror?",
+    "Why did you select the mirror?",
+    "Why did you pick the mirror?"
+  ],
+  "slots": [],
+  "contexts": [
+    "global"
+  ]
+}

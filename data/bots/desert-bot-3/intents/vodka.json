@@ -1,0 +1,19 @@
+{
+  "name": "vodka",
+  "utterances": [
+    "why did you take the vodka to the desert",
+    "why vodka",
+    "why'd you pick the vodka",
+    "what caused your ranking of the vodka",
+    "How did you stumble upon hte vodka being useful?",
+    "what made you decide to place the vodka where you did?",
+    "what did you rank the vodka and why?",
+    "why the vodka",
+    "what caused you to select the vodka?",
+    "Why did you pick the vodka?"
+  ],
+  "slots": [],
+  "contexts": [
+    "global"
+  ]
+}

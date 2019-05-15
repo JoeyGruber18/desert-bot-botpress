@@ -1,0 +1,19 @@
+{
+  "name": "gauze",
+  "utterances": [
+    "What caused you position of the guaze kit?",
+    "why did you favor the compress kit?",
+    "why the compress kit with guaze?",
+    "why did you pick the compress kit with gauze",
+    "why did you select the guaze?",
+    "What made you opt for the quaze?",
+    "What caused your ranking of the gauze?",
+    "Why did you put the gauze there?",
+    "Why did you pick the gauze?",
+    "why gauze"
+  ],
+  "slots": [],
+  "contexts": [
+    "global"
+  ]
+}

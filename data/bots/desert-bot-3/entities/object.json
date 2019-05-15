@@ -1,0 +1,267 @@
+{
+  "sensitive": false,
+  "fuzzy": true,
+  "name": "Object",
+  "type": "list",
+  "occurences": [
+    {
+      "name": "flashlight",
+      "synonyms": [
+        "flash light",
+        "flashlight",
+        "flashie light",
+        "flashlit",
+        "flash lite",
+        "flash lit",
+        "flashlite",
+        "light",
+        "flash",
+        "lite",
+        "lit",
+        "flashy",
+        "flashie",
+        "a flashlight"
+      ]
+    },
+    {
+      "name": "jackknife",
+      "synonyms": [
+        "jack knife",
+        "jack nife",
+        "nife",
+        "knife",
+        "jknife",
+        "pocketknife",
+        "pocket knife",
+        "stabby stabby",
+        "stabbers",
+        "stabber",
+        "kife",
+        "jack stabber",
+        "jack",
+        "switch blade",
+        "dagger",
+        "switchblade",
+        "shiv",
+        "blade",
+        "jack blade",
+        "pocket blade",
+        "pen knife",
+        "jac knife"
+      ]
+    },
+    {
+      "name": "cosmetic mirror",
+      "synonyms": [
+        "mirror",
+        "cosemeticmirror",
+        "cosemetic mirror",
+        "cosmeticmirror",
+        "cos mirror",
+        "miror",
+        "makeup mirror",
+        "makeup miror",
+        "mirror for makeup",
+        "mirror for cosmetics",
+        "mirrer",
+        "reflector",
+        "small mirror",
+        "hand mirror",
+        "compact mirror",
+        "simple mirror",
+        "mirro",
+        "miro"
+      ]
+    },
+    {
+      "name": "parachute",
+      "synonyms": [
+        "para chute",
+        "chute",
+        "paratroop"
+      ]
+    },
+    {
+      "name": "vodka",
+      "synonyms": [
+        "vodka",
+        "180 proof vodka",
+        "alcohol",
+        "2 qt. of 180 proof vodka",
+        "clear alcohol",
+        "alcoholic beverage",
+        "vodka alcohol",
+        "2 qt. alcohol"
+      ]
+    },
+    {
+      "name": "sunglasses",
+      "synonyms": [
+        "sunglass",
+        "sunglasses",
+        "a pair of sunglasses",
+        "pair of sunglasses",
+        "glasses",
+        "glasses for the sun",
+        "sun shades",
+        "shades",
+        "sin glasses",
+        "sun glasses",
+        "sun specs",
+        "sunspecs",
+        "sg",
+        "sun cheaters",
+        "sun eyeware"
+      ]
+    },
+    {
+      "name": "water",
+      "synonyms": [
+        "one quart of water",
+        "water",
+        "quart of water",
+        "one quart",
+        "quart",
+        "water bottle",
+        "H20",
+        "agua",
+        "wata"
+      ]
+    },
+    {
+      "name": "salt",
+      "synonyms": [
+        "salt tablets",
+        "salts",
+        "tablets",
+        "bottle of salt",
+        "bottle of salt tablets",
+        "1,000 salt",
+        "1,000 salt tablets",
+        "salty tablets",
+        "salt in a bottle",
+        "bottle of tablets",
+        "salty pills",
+        "pills",
+        "salt pills",
+        "bottle of salt pills",
+        "a bottle of pills",
+        "a bottle of salt pills"
+      ]
+    },
+    {
+      "name": "raincoat",
+      "synonyms": [
+        "raincoat",
+        "rain coat",
+        "plastic rain coat",
+        "plastic raincoat",
+        "rain",
+        "plastic raincoat size large",
+        "plastic rain coat size large",
+        "large plastic rain coat",
+        "large raincoat",
+        "large rain coat",
+        "rain jacket",
+        "rainjacket",
+        "rain poncho",
+        "a coat for rain",
+        "a waterproof coat",
+        "plastic poncho",
+        "plastic coat",
+        "plastic coat for rain",
+        "a large plastic rain coat"
+      ]
+    },
+    {
+      "name": "map",
+      "synonyms": [
+        "map",
+        "sectional air map of the area",
+        "map of area",
+        "sectional map",
+        "air map",
+        "mapp",
+        "area map",
+        "section map",
+        "air map of area",
+        "section air map",
+        "sectional air map",
+        "map of the area"
+      ]
+    },
+    {
+      "name": "pistol",
+      "synonyms": [
+        ".45 caliber pistol",
+        "loaded pistol",
+        "caliber pistol",
+        "gun",
+        "hand gun",
+        ".45 pistol",
+        ".45 caliber gun",
+        "loaded gun",
+        "loaded fire arm",
+        "fire arm",
+        "loaded 45. caliber pistol"
+      ]
+    },
+    {
+      "name": "book",
+      "synonyms": [
+        "book",
+        "a book entitled \"edible animals of the desert\"",
+        "edible animals of the desert",
+        "desert book",
+        "a book",
+        "the book",
+        "the edible animals of the desert book",
+        "animal book",
+        "edible animal book",
+        "a book called edible animals of the desert",
+        "the book about edible animals",
+        "the book about desert animals that you can eat",
+        "chapter book",
+        "bok"
+      ]
+    },
+    {
+      "name": "gauze",
+      "synonyms": [
+        "compress kit",
+        "compress kit with guaze",
+        "guaze",
+        "kit",
+        "compress",
+        "gauze kit",
+        "kit with gauze",
+        "kitt",
+        "compression kit",
+        "gauze compress kit",
+        "a kit for compress with gauze"
+      ]
+    },
+    {
+      "name": "top coat",
+      "synonyms": [
+        "top coat",
+        "topcoat",
+        "top",
+        "top jacket",
+        "over coat",
+        "overcoat",
+        "parka"
+      ]
+    },
+    {
+      "name": "compass",
+      "synonyms": [
+        "compass",
+        "magnetic compass",
+        "magnet compass",
+        "compas",
+        "compass that is magnetic"
+      ]
+    }
+  ]
+}

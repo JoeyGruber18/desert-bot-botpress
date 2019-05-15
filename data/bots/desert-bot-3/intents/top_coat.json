@@ -1,0 +1,19 @@
+{
+  "name": "top_coat",
+  "utterances": [
+    "why did you rnak the topcoat in the way you did?",
+    "how is the top coat useful for the desert",
+    "what made you select the topcoat",
+    "why did you single the top coat",
+    "Why did you rank the topcoat?",
+    "Why have you selected the top coat?",
+    "why did you decide upon the topcoat?",
+    "why would you decide on the top coat?",
+    "why did you select the topcoat",
+    "Why did you pick the top coat"
+  ],
+  "slots": [],
+  "contexts": [
+    "global"
+  ]
+}

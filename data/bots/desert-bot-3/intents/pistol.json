@@ -1,0 +1,19 @@
+{
+  "name": "pistol",
+  "utterances": [
+    "What makes the pistol harmful to have the desert",
+    "what advantages are there for the pistol",
+    "Why would the pistol be useful in the desert",
+    "why pistol",
+    "Why did you opt for the pistol?",
+    "Why was the pistol ranked so highly?",
+    "What made you select the pistol?",
+    "Why did you rank the pistol the way you did?",
+    "Why would you pick the pistol",
+    "Why did you pick the pistol"
+  ],
+  "slots": [],
+  "contexts": [
+    "global"
+  ]
+}

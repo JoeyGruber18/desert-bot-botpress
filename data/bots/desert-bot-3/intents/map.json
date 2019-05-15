@@ -1,0 +1,19 @@
+{
+  "name": "map",
+  "utterances": [
+    "what qualities of the map effected your ranking?",
+    "why did you rate the map in this way",
+    "what factors causes the map to be needed for the desert",
+    "why is the map useful?",
+    "why did you rank the map in this way?",
+    "What caused your ranking of the map?",
+    "What made you select the map?",
+    "Why did you pick the map?",
+    "why map",
+    "Why is the map useful?"
+  ],
+  "slots": [],
+  "contexts": [
+    "global"
+  ]
+}

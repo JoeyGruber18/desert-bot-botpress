@@ -1,0 +1,19 @@
+{
+  "name": "rain_coat",
+  "utterances": [
+    "Why did you place the raincoat in that position?",
+    "why did you reach your decision on the raincoat",
+    "why did you opt for the rain coat",
+    "What judgements did you have about the large plastic raincoat that caused you to rank on it in this way?",
+    "Why is the raincoat useful in the desert",
+    "why would someone prefer the rain coat?",
+    "what caused your ranking of the rain coat?",
+    "why rain coat",
+    "what made you select the rain coat",
+    "why did you pick the raincoat?"
+  ],
+  "slots": [],
+  "contexts": [
+    "global"
+  ]
+}

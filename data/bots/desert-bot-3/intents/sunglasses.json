@@ -1,0 +1,19 @@
+{
+  "name": "sunglasses",
+  "utterances": [
+    "Why did you choose the shades",
+    "What caused you to put the sunglasses in the order you did?",
+    "Why did you order the sunglasses in that way?",
+    "Why did you categorize the sunglasses like that?",
+    "Why did you place the sun shades where you did?",
+    "why did you decide to chose the sunnies?",
+    "why did you rank the sunglasses like that",
+    "why did you select the sunnies?",
+    "why sunglasses",
+    "why did you pick the sunglasses?"
+  ],
+  "slots": [],
+  "contexts": [
+    "global"
+  ]
+}

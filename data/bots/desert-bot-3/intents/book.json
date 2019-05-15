@@ -1,0 +1,19 @@
+{
+  "name": "book",
+  "utterances": [
+    "what caused your ranking and ordering of the book?",
+    "why did you decide upon the book",
+    "Why did you prefer the book",
+    "what is the uses of the book",
+    "why the book",
+    "why book",
+    "why would you rank the book a certain way?",
+    "What made you choose the book",
+    "Why did you decide the book",
+    "Why did you pick the book?"
+  ],
+  "slots": [],
+  "contexts": [
+    "global"
+  ]
+}

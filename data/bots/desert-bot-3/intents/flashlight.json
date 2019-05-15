@@ -1,0 +1,19 @@
+{
+  "name": "flashlight",
+  "utterances": [
+    "what effected your selection of the flashlight",
+    "why did you favor the flashylit",
+    "Why did you select the flash light",
+    "what caused your position of the flashlite",
+    "What factors effected your choice in the flashie lite",
+    "what reasons caused you to pick the flashlight",
+    "why did you pick the flash light",
+    "why did you put the flashlight where you did?",
+    "why flashlight?",
+    "why did you rank the flashlight the way you did?"
+  ],
+  "slots": [],
+  "contexts": [
+    "global"
+  ]
+}

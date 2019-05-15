@@ -1,0 +1,410 @@
+[
+  {
+    "id": "builtin_text-evPCaN",
+    "formData": {
+      "text": "Now that we are allowed to communicate, are there any items you would like to know about? ",
+      "typing": true
+    },
+    "createdBy": "admin",
+    "createdOn": "2019-05-09T16:51:01.516Z",
+    "modifiedOn": "2019-05-09T16:51:01.516Z"
+  },
+  {
+    "id": "builtin_text-w-OaOr",
+    "formData": {
+      "text": "{{temp.mirror_repeat_text}} Of all the items the mirror is absolutely critical. It is the most powerful tool you have for communicating your presence. ",
+      "typing": true
+    },
+    "createdBy": "admin",
+    "createdOn": "2019-05-09T16:54:34.105Z",
+    "modifiedOn": "2019-05-14T16:25:03.315Z"
+  },
+  {
+    "id": "builtin_text-7pgvaV",
+    "formData": {
+      "text": "Like I said before",
+      "typing": true
+    },
+    "createdBy": "admin",
+    "createdOn": "2019-05-09T16:55:53.723Z",
+    "modifiedOn": "2019-05-09T16:55:53.723Z"
+  },
+  {
+    "id": "builtin_text-ZJO5yi",
+    "formData": {
+      "text": "{{temp.flashlight_repeat_text}} The only quick, reliable night signaling device is the flashlight. With it and another item used for communicating your presence during the day, you would have a 24 hour signaling capability.  ",
+      "typing": true
+    },
+    "createdBy": "admin",
+    "createdOn": "2019-05-09T17:20:29.760Z",
+    "modifiedOn": "2019-05-14T16:31:30.352Z"
+  },
+  {
+    "id": "builtin_text-8zalPR",
+    "formData": {
+      "text": "{{temp.knife_repeat_text}} The jackknife would be useful for rigging the shelter, and for cutting up the very tough barrel cactus for moisture. Its innumerable other uses gives it the high ranking. ",
+      "typing": true
+    },
+    "createdBy": "admin",
+    "createdOn": "2019-05-09T17:21:09.584Z",
+    "modifiedOn": "2019-05-14T16:35:07.615Z"
+  },
+  {
+    "id": "builtin_text-0Ht8ex",
+    "formData": {
+      "text": "{{temp.parachute_repeat_text}} The parachute can serve as both shelter and signaling device. The saguaro cactus in the area could serve as a tent pole and the parachute shrouds as tent ropes.",
+      "typing": true
+    },
+    "createdBy": "admin",
+    "createdOn": "2019-05-09T17:21:52.346Z",
+    "modifiedOn": "2019-05-14T16:33:13.715Z"
+  },
+  {
+    "id": "builtin_text-3sWpRG",
+    "formData": {
+      "text": "{{temp.raincoat_repeat_text}} The plastic raincoat could be used to build a solar still, that would collect, and purify water.",
+      "typing": true
+    },
+    "createdBy": "admin",
+    "createdOn": "2019-05-09T17:23:40.158Z",
+    "modifiedOn": "2019-05-14T16:36:58.682Z"
+  },
+  {
+    "id": "builtin_text-ROcYR0",
+    "formData": {
+      "text": "{{temp.topcoat_repeat_text}} A major problem is dehydration, the top coat could help slow down this process. 40% of the body moisture that is lost through dehydration is lost through respiration and perspiration.",
+      "typing": true
+    },
+    "createdBy": "admin",
+    "createdOn": "2019-05-09T17:24:30.605Z",
+    "modifiedOn": "2019-05-14T16:27:07.031Z"
+  },
+  {
+    "id": "builtin_text-qCqcTM",
+    "formData": {
+      "text": "{{temp.water_repeat_text}} Although the quart of water would not significantly extend the survival time, it would help to hold off the effects of dehydration. ",
+      "typing": true
+    },
+    "createdBy": "admin",
+    "createdOn": "2019-05-09T17:25:08.752Z",
+    "modifiedOn": "2019-05-14T16:29:55.298Z"
+  },
+  {
+    "id": "builtin_text-6iGv_g",
+    "formData": {
+      "text": "Goodbye.",
+      "typing": true
+    },
+    "createdBy": "admin",
+    "createdOn": "2019-05-09T17:37:22.157Z",
+    "modifiedOn": "2019-05-09T17:37:22.157Z"
+  },
+  {
+    "id": "builtin_text-IEoPRQ",
+    "formData": {
+      "text": "I did not understand you. ",
+      "variations": [
+        "Would you repeat that? ",
+        "The guidelines stated that we should stick to communication about the items. Answering that question could jeopardize the simulation.",
+        "Remember the rules for communicating. "
+      ],
+      "typing": true
+    },
+    "createdBy": "admin",
+    "createdOn": "2019-05-13T14:42:23.045Z",
+    "modifiedOn": "2019-05-13T16:51:54.309Z"
+  },
+  {
+    "id": "builtin_text-GB6K3A",
+    "formData": {
+      "text": "In sunlight a simple mirror can generate 5 to 7 million candle power of light. The reflected sunbeam can even be seen beyond the horizon. ",
+      "typing": true
+    },
+    "createdBy": "admin",
+    "createdOn": "2019-05-13T15:08:41.019Z",
+    "modifiedOn": "2019-05-13T15:08:41.019Z"
+  },
+  {
+    "id": "builtin_text-boxupo",
+    "formData": {
+      "text": "If you had no other items you would still have better than an 80 percent chance of being spotted and picked up within the first 24 hours.",
+      "typing": true
+    },
+    "createdBy": "admin",
+    "createdOn": "2019-05-13T15:08:59.002Z",
+    "modifiedOn": "2019-05-13T15:08:59.002Z"
+  },
+  {
+    "id": "builtin_text-EzvrEs",
+    "formData": {
+      "text": "Moisture lost through respiration can be cut significantly by remaining calm. Moisture lost through perspiration can be cut by preventing the hot, dry air from circulating next to the skin. ",
+      "typing": true
+    },
+    "createdBy": "admin",
+    "createdOn": "2019-05-13T15:13:50.146Z",
+    "modifiedOn": "2019-05-13T15:13:50.146Z"
+  },
+  {
+    "id": "builtin_text-fELfiD",
+    "formData": {
+      "text": "Top coats, ironic as it may seem, are the best available means for doing this. Without them, survival time would be cut by at least a day.",
+      "typing": true
+    },
+    "createdBy": "admin",
+    "createdOn": "2019-05-13T15:14:03.268Z",
+    "modifiedOn": "2019-05-13T15:14:03.268Z"
+  },
+  {
+    "id": "builtin_text-paS3Mp",
+    "formData": {
+      "text": "It would be best to drink the water as you become thirsty so that you can remain as clear-headed as possible during the first day when important decisions have to be made.",
+      "typing": true
+    },
+    "createdBy": "admin",
+    "createdOn": "2019-05-13T15:17:45.378Z",
+    "modifiedOn": "2019-05-13T15:17:45.378Z"
+  },
+  {
+    "id": "builtin_text-voN2xA",
+    "formData": {
+      "text": "Once dehydration begins, it would be impossible to reverse it with the amount of water available in this situation. Therefore, rationing it would do no good at all.",
+      "typing": true
+    },
+    "createdBy": "admin",
+    "createdOn": "2019-05-13T15:18:03.856Z",
+    "modifiedOn": "2019-05-13T15:18:03.856Z"
+  },
+  {
+    "id": "builtin_text-G3VIY5",
+    "formData": {
+      "text": "The reflector and lens could be used as an auxiliary signal device or for starting a fire. The battery container could be used for digging or as a water container. The reflector and lens could be used as an auxiliary signal device or for starting a fire. The battery container could be used for digging or as a water container.",
+      "typing": true
+    },
+    "createdBy": "admin",
+    "createdOn": "2019-05-13T15:19:39.592Z",
+    "modifiedOn": "2019-05-13T15:20:18.048Z"
+  },
+  {
+    "id": "builtin_text-5khnNd",
+    "formData": {
+      "text": " Double, or triple folding the parachute, would give shade dark enough to reduce the temperature underneath it by as much as 20%.",
+      "typing": true
+    },
+    "createdBy": "admin",
+    "createdOn": "2019-05-13T15:22:06.211Z",
+    "modifiedOn": "2019-05-13T15:22:06.211Z"
+  },
+  {
+    "id": "builtin_text-WJ6Pqs",
+    "formData": {
+      "text": "By digging a hole, and placing the raincoat over it, the temperature differential will extract some moisture from urine soaked sand, and pieces of barrel cactus, and produce condensation on the underside of the plastic. By placing a small stone, in the center of the plastic, a cone shape can be formed and cause moisture to drip into a container, buried in the center of the hole.",
+      "typing": true
+    },
+    "createdBy": "admin",
+    "createdOn": "2019-05-13T15:26:47.858Z",
+    "modifiedOn": "2019-05-13T15:26:47.858Z"
+  },
+  {
+    "id": "builtin_text-I9X_A4",
+    "formData": {
+      "text": "Up to a quart, a day could be obtained this way. This would be helpful, but not enough to make any significant difference. The physical activity required to extract the water is likely to use up about twice as much body water as could be gained.",
+      "typing": true
+    },
+    "createdBy": "admin",
+    "createdOn": "2019-05-13T15:27:05.294Z",
+    "modifiedOn": "2019-05-13T15:27:05.294Z"
+  },
+  {
+    "id": "builtin_text-pH_DpP",
+    "formData": {
+      "text": "{{temp.pistol_repeat_text}} The loaded pistol has several uses. By the end of the second-day speech would be seriously impaired and you might be unable to walk. By this time you would be experiencing six to ten percent dehydration. The pistol would then be useful as a sound signaling device, and the bullets as a quick fire starter. The international distress signal is three shots in rapid succession. There have been numerous cases of survivors going undetected because they couldn’t make any, loud sounds. ",
+      "typing": true
+    },
+    "createdBy": "admin",
+    "createdOn": "2019-05-13T16:15:22.674Z",
+    "modifiedOn": "2019-05-14T16:38:31.946Z"
+  },
+  {
+    "id": "builtin_text-EcUopF",
+    "formData": {
+      "text": "The butt of the pistol might also be used as a hammer. The pistol’s advantages are counterbalanced by its, very dangerous disadvantages. Impatience, irritability, and irrationality would all occur as dehydration increases. This is why critical decisions should be made before dehydration sets in. ",
+      "typing": true
+    },
+    "createdBy": "admin",
+    "createdOn": "2019-05-13T16:16:03.767Z",
+    "modifiedOn": "2019-05-13T16:16:03.767Z"
+  },
+  {
+    "id": "builtin_text-jqyhw6",
+    "formData": {
+      "text": "Under the circumstances, the availability of so lethal a tool constitutes a real danger to the survivors. Assuming it was not used against humans, it might be used for hunting, which would be a complete waste of effort. Even if someone were able to shoot an animal with it, which is very unlikely, eating the meat would increase dehydration enormously as the body uses its water to process the food. ",
+      "typing": true
+    },
+    "createdBy": "admin",
+    "createdOn": "2019-05-13T16:16:43.535Z",
+    "modifiedOn": "2019-05-13T16:16:43.535Z"
+  },
+  {
+    "id": "builtin_text-F6VUqJ",
+    "formData": {
+      "text": "{{temp.sunglasses_repeat_text}} Sunglasses would address potential vision problems. In the intense sunlight of the desert, photothalmia and solar retinitis, both similar to the effects of snow blindness, could be serious problems, especially by the second day. ",
+      "typing": true
+    },
+    "createdBy": "admin",
+    "createdOn": "2019-05-13T16:18:38.222Z",
+    "modifiedOn": "2019-05-14T16:39:42.601Z"
+  },
+  {
+    "id": "builtin_text-pFanNi",
+    "formData": {
+      "text": "{{temp.gauze_repeat_text}} The compress kit with gauze would become less useful as time went on. Because of the desert’s low humidity, it is considered one of the healthiest least infectious places in the world. Due to the fact that the blood thickens with dehydration, there is little danger from bleeding unless a vein is severed.",
+      "typing": true
+    },
+    "createdBy": "admin",
+    "createdOn": "2019-05-13T16:21:14.619Z",
+    "modifiedOn": "2019-05-14T16:40:49.835Z"
+  },
+  {
+    "id": "builtin_text-hTeyPi",
+    "formData": {
+      "text": "In one well-documented case, a man, lost and without water, who had torn off all his clothes and fallen among sharp cactus and rocks until his body was covered with cuts, didn’t bleed until he was rescued and given water. ",
+      "typing": true
+    },
+    "createdBy": "admin",
+    "createdOn": "2019-05-13T16:21:33.311Z",
+    "modifiedOn": "2019-05-13T16:21:33.311Z"
+  },
+  {
+    "id": "builtin_text-ATh2Nb",
+    "formData": {
+      "text": "{{temp.compass_repeat_text}} The compass is of little use, aside from the possibility of using its reflective surfaces as an auxiliary signaling device. It could even be dangerous to have around, once the effects of dehydration take hold. It might encourage taking a risky, or flawed, course of action.",
+      "typing": true
+    },
+    "createdBy": "admin",
+    "createdOn": "2019-05-13T16:23:18.655Z",
+    "modifiedOn": "2019-05-14T16:43:11.372Z"
+  },
+  {
+    "id": "builtin_text-88MySR",
+    "formData": {
+      "text": "{{temp.map_repeat_text}} The sectional air map might be helpful for starting a fire, or for toilet paper. One person might use it for a head cover or eyeshade. It might have entertainment value. But it is essentially useless, and perhaps dangerous, because it might encourage taking a risky or flawed course of action.",
+      "typing": true
+    },
+    "createdBy": "admin",
+    "createdOn": "2019-05-13T16:24:13.946Z",
+    "modifiedOn": "2019-05-14T16:46:58.817Z"
+  },
+  {
+    "id": "builtin_text-c-fCjN",
+    "formData": {
+      "text": "{{temp.book_repeat_text}} Although the book might contain useful information, it would be difficult to adjust your eyes to reading, and remain attentive, as dehydration increases. The problem confronting the survivors is dehydration, not starvation.  Any energy expanded in hunting would be costly in terms of potential water loss. ",
+      "typing": true
+    },
+    "createdBy": "admin",
+    "createdOn": "2019-05-13T16:25:37.834Z",
+    "modifiedOn": "2019-05-14T16:50:05.192Z"
+  },
+  {
+    "id": "builtin_text-Bb8Ckw",
+    "formData": {
+      "text": "Desert animals, while plentiful, are seldom seen. They survive by, laying low. If the hunt was successful, the intake of protein would cause an increase in the amount of water used to process the protein in the body. ",
+      "typing": true
+    },
+    "createdBy": "admin",
+    "createdOn": "2019-05-13T16:25:56.694Z",
+    "modifiedOn": "2019-05-13T16:25:56.694Z"
+  },
+  {
+    "id": "builtin_text-d5d8Ra",
+    "formData": {
+      "text": "A general rule of thumb is, if you have lots of water, eat, otherwise, don’t consume anything. ",
+      "typing": true
+    },
+    "createdBy": "admin",
+    "createdOn": "2019-05-13T16:26:11.445Z",
+    "modifiedOn": "2019-05-13T16:26:11.445Z"
+  },
+  {
+    "id": "builtin_text-yLg5pf",
+    "formData": {
+      "text": "{{temp.vodka_repeat_text}} The Vodka would be helpful for, a fire, or as a temporary coolant for the body. The bottle might also be helpful. However, when severe alcoholism kills someone, they usually die of dehydration. ",
+      "typing": true
+    },
+    "createdBy": "admin",
+    "createdOn": "2019-05-13T16:28:17.462Z",
+    "modifiedOn": "2019-05-14T16:51:46.152Z"
+  },
+  {
+    "id": "builtin_text-fXBBSp",
+    "formData": {
+      "text": "{{temp.salt_repeat_text}} Widespread myths about salt tablets exist. The first problem is that with dehydration, and loss of water, blood salinity increases. Sweat contains less salt than extra cellular fluids. Without lots of extra water, the salt tablets would require body water to get rid of the increased salinity. The effect would be like drinking sea water.",
+      "typing": true
+    },
+    "createdBy": "admin",
+    "createdOn": "2019-05-13T16:29:41.680Z",
+    "modifiedOn": "2019-05-14T16:52:50.788Z"
+  },
+  {
+    "id": "builtin_text-mERg0T",
+    "formData": {
+      "text": "Even the person who developed salt tablets now maintains they are of questionable value, except in geographical areas where there are salt deficiencies. ",
+      "typing": true
+    },
+    "createdBy": "admin",
+    "createdOn": "2019-05-13T16:29:50.718Z",
+    "modifiedOn": "2019-05-13T16:29:50.718Z"
+  },
+  {
+    "id": "builtin_text--x0psn",
+    "formData": {
+      "text": "Darkening the area around the eyes with soot from the wreckage would reduce the problem. Using a handkerchief, or compress material as a veil, with eyes slits cut into it, would eliminate the vision problem too. But sunglasses would make things more comfortable. ",
+      "typing": true
+    },
+    "createdBy": "admin",
+    "createdOn": "2019-05-13T16:49:50.287Z",
+    "modifiedOn": "2019-05-13T16:49:50.287Z"
+  },
+  {
+    "id": "builtin_text-l8ykyP",
+    "formData": {
+      "text": "Alcohol absorbs water. The body loses an enormous amount of water trying to throw off the alcohol. You can estimate a loss of 2 to 3 ounces of water per ounce of alcohol.",
+      "typing": true
+    },
+    "createdBy": "admin",
+    "createdOn": "2019-05-13T16:53:18.437Z",
+    "modifiedOn": "2019-05-13T16:53:18.437Z"
+  },
+  {
+    "id": "builtin_text-9WPt_m",
+    "formData": {
+      "text": "The Vodka consumed could be lethal in this situation. Its presence could cause someone, in a dehydrated state, to increase their problem. All in all, the Vodka represents more danger than help.",
+      "typing": true
+    },
+    "createdBy": "admin",
+    "createdOn": "2019-05-13T16:53:37.226Z",
+    "modifiedOn": "2019-05-13T16:53:56.154Z"
+  },
+  {
+    "id": "builtin_text-kbNvlC",
+    "formData": {
+      "text": "{{temp.mirrorrepeattext}}",
+      "typing": true
+    },
+    "createdBy": "admin",
+    "createdOn": "2019-05-14T16:06:54.746Z",
+    "modifiedOn": "2019-05-14T16:06:54.746Z"
+  },
+  {
+    "id": "builtin_text-sKYkBP",
+    "formData": {
+      "text": "Remember, we are only supposed to talk about a single item at a time. Which one did you want to know more about?",
+      "variations": [
+        "Remember, we should stick to communication about a single item. Which one?"
+      ],
+      "typing": true
+    },
+    "createdBy": "admin",
+    "createdOn": "2019-05-14T16:58:32.595Z",
+    "modifiedOn": "2019-05-14T16:58:32.595Z"
+  }
+]

@@ -1,0 +1,19 @@
+{
+  "name": "comparison",
+  "utterances": [
+    "why did you put the jackknife and compass there?",
+    "what effected your ordering of the sunnies and salt",
+    "what caused your selection of the mirror and the flashlight",
+    "why did you settle on the riancoat and topcoat",
+    "why did you extract the map and boolk",
+    "why would you ever choose the flashlight, compress and sunnies?",
+    "why did you select the map above the vodka",
+    "what caused your ranking of the map and book?",
+    "why did you rank the miror and pistol like that",
+    "why did you pick the mirror and flashlight"
+  ],
+  "slots": [],
+  "contexts": [
+    "global"
+  ]
+}

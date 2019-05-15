@@ -1,0 +1,19 @@
+{
+  "name": "salt",
+  "utterances": [
+    "What are the advantages of having the salt tablets in the desert?",
+    "Why did you file the salt tablets like that",
+    "why salt tablets",
+    "Why did you position the salt tablets in the list in the way you did",
+    "What factors caused your sorting with the salt tablets",
+    "What caused you to rank the salt the way you did?",
+    "what made you decide upon the salt tablets?",
+    "why the salt",
+    "why did you pick the salt tablets",
+    "why did you pick hte salt"
+  ],
+  "slots": [],
+  "contexts": [
+    "global"
+  ]
+}
